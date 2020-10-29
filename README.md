@@ -489,7 +489,7 @@ Kubernetes-native ways.
 
 ### "starboard" cannot be opened because the developer cannot be verified. (macOS)
 
-Since Starboard CLI is not registered with Apple by an identified developer, if you try to run it for the first time
+Since Starboard CLI is not registered with Apple by an identified developer, so if you try to run it for the first time
 you might get a warning dialog. This doesn't mean that something is wrong with the release binary, rather macOS can't
 check whether the binary has been modified or broken since it was released.
 
